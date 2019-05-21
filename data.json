@@ -1,0 +1,495 @@
+[ {
+  "id" : 1,
+  "foodCategory" : "한식",
+  "searchCategory" : "김치찌개",
+  "tags" : [ "짠", "매운", "자극적" ],
+  "times" : [ ],
+  "images" : [ {
+    "width" : 420,
+    "height" : 235,
+    "url" : "http://post.phinf.naver.net/20150601_62/samuel87_1433146090936TWVj0_JPEG/mug_obj_201506011708116985.jpg"
+  }, {
+    "width" : 500,
+    "height" : 496,
+    "url" : "http://imgnews.naver.net/image/5286/2017/01/04/20170104000202_20170104175330392.jpg"
+  } ]
+}, {
+  "id" : 2,
+  "foodCategory" : "한식",
+  "searchCategory" : "된장찌개",
+  "tags" : [ "짠" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 3,
+  "foodCategory" : "한식",
+  "searchCategory" : "떡갈비",
+  "tags" : [ "고기", "기름" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 4,
+  "foodCategory" : "한식",
+  "searchCategory" : "비빔밥",
+  "tags" : [ "짠", "탄수화물", "자극적" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 5,
+  "foodCategory" : "한식",
+  "searchCategory" : "삼계탕",
+  "tags" : [ "고기" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 6,
+  "foodCategory" : "한식",
+  "searchCategory" : "뚝배기 불고기",
+  "tags" : [ "짠", "고기" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 7,
+  "foodCategory" : "한식",
+  "searchCategory" : "물냉면",
+  "tags" : [ "면", "짠", "탄수화물", "자극적", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 8,
+  "foodCategory" : "한식",
+  "searchCategory" : "비빔냉면",
+  "tags" : [ "면", "짠", "탄수화물", "자극적", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 9,
+  "foodCategory" : "한식",
+  "searchCategory" : "순두부",
+  "tags" : [ "짠", "매운", "자극적" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 10,
+  "foodCategory" : "한식",
+  "searchCategory" : "김치볶음밥",
+  "tags" : [ "밥", "짠", "매운", "자극적", "탄수화물" ],
+  "times" : [ ],
+  "images" : [ {
+    "width" : 900,
+    "height" : 600,
+    "url" : "http://ldb.phinf.naver.net/20180731_33/1533010612056bPTx9_JPEG/Tm5-Jvsuow2ZJp5L5j4PQ9BC.jpg"
+  } ]
+}, {
+  "id" : 11,
+  "foodCategory" : "한식",
+  "searchCategory" : "콩국수",
+  "tags" : [ "면", "밀가루", "탄수화물" ],
+  "times" : [ ],
+  "images" : [ {
+    "width" : 541,
+    "height" : 354,
+    "url" : "http://post.phinf.naver.net/MjAxNjEyMDFfMTU5/MDAxNDgwNTg1MzY5MDAy.h1GRraCMsCDeE5Zhv5sCLW1jxaZbgxk8Iuy2npScgDAg.OM_IEBLgeMUAiy84ovkLmwmUnIBfHp0H2WlHyj2ilIQg.PNG/Is-TsGYKklzd5wLrFCs38JVkMroo.jpg"
+  }, {
+    "width" : 960,
+    "height" : 638,
+    "url" : "http://post.phinf.naver.net/MjAxNzA3MTFfMjgw/MDAxNDk5NzM0Njc5NjQz.TJ0zW3XJxEzIoLAYWnh6_jHsI_yOT3XFtLeXlF9iGWog.5gC_8FW6ZjTPzEjD0_JbO4AZuWwBCbSq0QNDL6hkhUIg.JPEG/IEFoOniVM5w4uz5oHsTMdGW2NBPE.jpg"
+  }, {
+    "width" : 1000,
+    "height" : 1000,
+    "url" : "http://shop1.phinf.naver.net/20171019_36/chungsinho_1508399730364eUgt2_JPEG/31706889972830881_-689718850.jpg"
+  }, {
+    "width" : 350,
+    "height" : 236,
+    "url" : "http://imgnews.naver.net/image/119/2006/05/09/news1147130582_35459_1_m.jpg"
+  }, {
+    "width" : 600,
+    "height" : 600,
+    "url" : "http://shopping.phinf.naver.net/main_1071724/10717249843.20161202001018.jpg"
+  } ]
+}, {
+  "id" : 12,
+  "foodCategory" : "한식",
+  "searchCategory" : "전",
+  "tags" : [ "야식", "밀가루", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 13,
+  "foodCategory" : "한식",
+  "searchCategory" : "칼국수",
+  "tags" : [ "면", "밀가루", "탄수화물" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 14,
+  "foodCategory" : "한식",
+  "searchCategory" : "닭갈비",
+  "tags" : [ "고기", "매운", "자극적" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 15,
+  "foodCategory" : "한식",
+  "searchCategory" : "김치말이 국수",
+  "tags" : [ "면", "짠", "탄수화물", "자극적", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 16,
+  "foodCategory" : "한식",
+  "searchCategory" : "닭볶음탕",
+  "tags" : [ "술", "고기", "매운", "자극적" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 17,
+  "foodCategory" : "한식",
+  "searchCategory" : "감자탕",
+  "tags" : [ "술", "고기", "매운", "자극적" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 18,
+  "foodCategory" : "중식",
+  "searchCategory" : "짜장면",
+  "tags" : [ "면", "짠", "탄수화물", "자극적", "밀가루", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 19,
+  "foodCategory" : "중식",
+  "searchCategory" : "짬뽕",
+  "tags" : [ "면", "짠", "매운", "탄수화물", "자극적", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 20,
+  "foodCategory" : "중식",
+  "searchCategory" : "탕수육",
+  "tags" : [ "고기", "튀김", "느끼한", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 21,
+  "foodCategory" : "중식",
+  "searchCategory" : "깐풍기",
+  "tags" : [ "고기", "튀김", "느끼한", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 22,
+  "foodCategory" : "중식",
+  "searchCategory" : "깐쇼새우",
+  "tags" : [ "튀김", "느끼한", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 23,
+  "foodCategory" : "중식",
+  "searchCategory" : "만두",
+  "tags" : [ "고기", "튀김", "느끼한", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 24,
+  "foodCategory" : "중식",
+  "searchCategory" : "마라탕",
+  "tags" : [ "고기", "매운", "자극적", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 25,
+  "foodCategory" : "중식",
+  "searchCategory" : "마라샹궈",
+  "tags" : [ "고기", "매운", "자극적", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 26,
+  "foodCategory" : "일식",
+  "searchCategory" : "초밥/스시",
+  "tags" : [ "밥", "탄수화물" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 27,
+  "foodCategory" : "일식",
+  "searchCategory" : "탄탄면",
+  "tags" : [ "면", "짠", "매운", "탄수화물", "자극적", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 28,
+  "foodCategory" : "일식",
+  "searchCategory" : "연어",
+  "tags" : [ "느끼한", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 29,
+  "foodCategory" : "일식",
+  "searchCategory" : "돈까스",
+  "tags" : [ "고기", "튀김", "느끼한", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 30,
+  "foodCategory" : "양식",
+  "searchCategory" : "파스타",
+  "tags" : [ "면", "짠", "탄수화물", "밀가루", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 31,
+  "foodCategory" : "양식",
+  "searchCategory" : "피자",
+  "tags" : [ "야식", "밀가루", "탄수화물", "느끼한", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 32,
+  "foodCategory" : "양식",
+  "searchCategory" : "리조또",
+  "tags" : [ "밥", "탄수화물", "느끼한", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 33,
+  "foodCategory" : "양식",
+  "searchCategory" : "햄버거",
+  "tags" : [ "고기", "빵", "탄수화물", "밀가루", "기름진", "느끼한", "고칼로리" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 34,
+  "foodCategory" : "치킨",
+  "searchCategory" : "치킨",
+  "tags" : [ "술", "안주", "고기", "튀김", "느끼한", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 35,
+  "foodCategory" : "분식",
+  "searchCategory" : "쫄면",
+  "tags" : [ "면", "짠", "탄수화물", "자극적", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 36,
+  "foodCategory" : "분식",
+  "searchCategory" : "골뱅이소면",
+  "tags" : [ "술", "안주", "야식", "면", "짠", "탄수화물", "자극적", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 37,
+  "foodCategory" : "분식",
+  "searchCategory" : "떡볶이",
+  "tags" : [ "짠", "탄수화물", "자극적", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 38,
+  "foodCategory" : "분식",
+  "searchCategory" : "라면",
+  "tags" : [ "면", "짠", "매운", "탄수화물", "자극적", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 39,
+  "foodCategory" : "간식/디저트",
+  "searchCategory" : "아이스크림",
+  "tags" : [ "유제품", "단", "설탕", "고지방", "고칼로리", "디저트" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 40,
+  "foodCategory" : "간식/디저트",
+  "searchCategory" : "빵",
+  "tags" : [ "단", "설탕", "빵", "탄수화물", "고지방", "고칼로리", "버터", "기름진", "느끼한", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 41,
+  "foodCategory" : "간식/디저트",
+  "searchCategory" : "과자",
+  "tags" : [ "단", "설탕", "탄수화물", "고지방", "고칼로리", "버터", "기름진", "느끼한", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 42,
+  "foodCategory" : "간식/디저트",
+  "searchCategory" : "케이크",
+  "tags" : [ "단", "설탕", "빵", "탄수화물", "고지방", "고칼로리", "버터", "기름진", "느끼한", "밀가루", "생크림" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 43,
+  "foodCategory" : "간식/디저트",
+  "searchCategory" : "마카롱",
+  "tags" : [ "단", "설탕", "빵", "탄수화물", "고지방", "고칼로리", "버터", "기름진", "느끼한", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 44,
+  "foodCategory" : "간식/디저트",
+  "searchCategory" : "떡",
+  "tags" : [ "단", "설탕", "쌀", "탄수화물", "고지방", "고칼로리" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 45,
+  "foodCategory" : "간식/디저트",
+  "searchCategory" : "젤리",
+  "tags" : [ "단", "설탕", "탄수화물" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 46,
+  "foodCategory" : "음료",
+  "searchCategory" : "탄산",
+  "tags" : [ "단", "설탕", "고지방" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 47,
+  "foodCategory" : "음료",
+  "searchCategory" : "버블티",
+  "tags" : [ "단", "설탕", "고지방" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 48,
+  "foodCategory" : "음료",
+  "searchCategory" : "커피",
+  "tags" : [ "단", "설탕", "생크림", "고지방", "유제품" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 49,
+  "foodCategory" : "음료",
+  "searchCategory" : "밀크티",
+  "tags" : [ "단", "설탕", "고지방", "유제품" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 50,
+  "foodCategory" : "고기",
+  "searchCategory" : "족발",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 51,
+  "foodCategory" : "고기",
+  "searchCategory" : "보쌈",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 52,
+  "foodCategory" : "고기",
+  "searchCategory" : "삼겹살",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 53,
+  "foodCategory" : "고기",
+  "searchCategory" : "소고기 구이",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 54,
+  "foodCategory" : "고기",
+  "searchCategory" : "스테이크",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 55,
+  "foodCategory" : "고기",
+  "searchCategory" : "바베큐",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 56,
+  "foodCategory" : "고기",
+  "searchCategory" : "햄",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 57,
+  "foodCategory" : "고기",
+  "searchCategory" : "소세지",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 58,
+  "foodCategory" : "고기",
+  "searchCategory" : "양갈비",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 59,
+  "foodCategory" : "고기",
+  "searchCategory" : "돼지껍데기",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 60,
+  "foodCategory" : "고기",
+  "searchCategory" : "오돌뼈",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 61,
+  "foodCategory" : "고기",
+  "searchCategory" : "양꼬치",
+  "tags" : [ "고기", "야식", "술", "안주" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 62,
+  "foodCategory" : "태국음식",
+  "searchCategory" : "똠양꿍",
+  "tags" : [ "고기", "매운", "자극적", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 63,
+  "foodCategory" : "태국음식",
+  "searchCategory" : "팟타이",
+  "tags" : [ "면", "짠", "자극적", "탄수화물", "밀가루", "기름진" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 64,
+  "foodCategory" : "태국음식",
+  "searchCategory" : "나시고랭",
+  "tags" : [ "밥", "짠", "매운", "자극적", "탄수화물" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 65,
+  "foodCategory" : "멕시코음식",
+  "searchCategory" : "나초",
+  "tags" : [ "술", "안주", "과자", "자극적", "탄수화물", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+}, {
+  "id" : 66,
+  "foodCategory" : "멕시코음식",
+  "searchCategory" : "타코",
+  "tags" : [ "술", "안주", "과자", "자극적", "탄수화물", "밀가루" ],
+  "times" : [ ],
+  "images" : [ ]
+} ]
