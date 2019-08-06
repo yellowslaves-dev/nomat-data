@@ -5,13 +5,17 @@
   "tags" : [ "짠", "매운", "자극적" ],
   "times" : [ "아침", "점심", "저녁", "간식", "야식" ],
   "images" : [ {
-    "width" : 420,
-    "height" : 235,
-    "url" : "http://post.phinf.naver.net/20150601_62/samuel87_1433146090936TWVj0_JPEG/mug_obj_201506011708116985.jpg"
-  }, {
+    "groupId" : 1,
+    "id" : 6,
     "width" : 500,
     "height" : 496,
     "url" : "http://imgnews.naver.net/image/5286/2017/01/04/20170104000202_20170104175330392.jpg"
+  }, {
+    "groupId" : 1,
+    "id" : 3,
+    "width" : 360,
+    "height" : 188,
+    "url" : "https://t1.daumcdn.net/daumtop_chanel/op/20170315064553027.png"
   } ]
 }, {
   "id" : 2,
@@ -75,11 +79,7 @@
   "searchCategory" : "김치볶음밥",
   "tags" : [ "밥", "짠", "매운", "자극적", "탄수화물" ],
   "times" : [ "아침", "점심", "저녁", "간식", "야식" ],
-  "images" : [ {
-    "width" : 900,
-    "height" : 600,
-    "url" : "http://ldb.phinf.naver.net/20180731_33/1533010612056bPTx9_JPEG/Tm5-Jvsuow2ZJp5L5j4PQ9BC.jpg"
-  } ]
+  "images" : [ ]
 }, {
   "id" : 11,
   "foodCategory" : "한식",
@@ -87,25 +87,17 @@
   "tags" : [ "면", "밀가루", "탄수화물" ],
   "times" : [ "아침", "점심", "저녁", "간식", "야식" ],
   "images" : [ {
+    "groupId" : 11,
+    "id" : 0,
     "width" : 541,
     "height" : 354,
     "url" : "http://post.phinf.naver.net/MjAxNjEyMDFfMTU5/MDAxNDgwNTg1MzY5MDAy.h1GRraCMsCDeE5Zhv5sCLW1jxaZbgxk8Iuy2npScgDAg.OM_IEBLgeMUAiy84ovkLmwmUnIBfHp0H2WlHyj2ilIQg.PNG/Is-TsGYKklzd5wLrFCs38JVkMroo.jpg"
   }, {
-    "width" : 960,
-    "height" : 638,
-    "url" : "http://post.phinf.naver.net/MjAxNzA3MTFfMjgw/MDAxNDk5NzM0Njc5NjQz.TJ0zW3XJxEzIoLAYWnh6_jHsI_yOT3XFtLeXlF9iGWog.5gC_8FW6ZjTPzEjD0_JbO4AZuWwBCbSq0QNDL6hkhUIg.JPEG/IEFoOniVM5w4uz5oHsTMdGW2NBPE.jpg"
-  }, {
+    "groupId" : 11,
+    "id" : 2,
     "width" : 1000,
     "height" : 1000,
     "url" : "http://shop1.phinf.naver.net/20171019_36/chungsinho_1508399730364eUgt2_JPEG/31706889972830881_-689718850.jpg"
-  }, {
-    "width" : 350,
-    "height" : 236,
-    "url" : "http://imgnews.naver.net/image/119/2006/05/09/news1147130582_35459_1_m.jpg"
-  }, {
-    "width" : 600,
-    "height" : 600,
-    "url" : "http://shopping.phinf.naver.net/main_1071724/10717249843.20161202001018.jpg"
   } ]
 }, {
   "id" : 12,
