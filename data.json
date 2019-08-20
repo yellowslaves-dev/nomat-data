@@ -6,16 +6,46 @@
   "times" : [ "아침", "점심", "저녁", "간식", "야식" ],
   "images" : [ {
     "groupId" : 1,
-    "id" : 6,
-    "width" : 500,
-    "height" : 496,
-    "url" : "http://imgnews.naver.net/image/5286/2017/01/04/20170104000202_20170104175330392.jpg"
+    "id" : 2,
+    "width" : 650,
+    "height" : 433,
+    "url" : "http://post.phinf.naver.net/20160607_32/1465262981384IVk0w_GIF/IJWrkKPGdJjbL9N_qCb_oKuSCdkI.jpg"
   }, {
     "groupId" : 1,
     "id" : 3,
-    "width" : 360,
-    "height" : 188,
-    "url" : "https://t1.daumcdn.net/daumtop_chanel/op/20170315064553027.png"
+    "width" : 740,
+    "height" : 555,
+    "url" : "http://post.phinf.naver.net/MjAxNzA4MDNfNzkg/MDAxNTAxNzUwMjY3MzEz.5_3LCFpvnqJZ5-699avViTHH0BVf-DwICil3Cc_6NOUg.l4eMJL95NJDs8Cx88c80Zho2E_UGpEdN61H7i_XCGpgg.JPEG/IfrTEf8XWZnGlNlX5b3Uqbw3McRs.jpg"
+  }, {
+    "groupId" : 1,
+    "id" : 4,
+    "width" : 500,
+    "height" : 332,
+    "url" : "http://imgnews.naver.net/image/296/2016/11/15/shutterstock_470843366_99_20161115123005.jpg"
+  }, {
+    "groupId" : 1,
+    "id" : 5,
+    "width" : 740,
+    "height" : 416,
+    "url" : "http://post.phinf.naver.net/20150626_100/dksmf2626_1435282342179dItSQ_JPEG/mug_obj_201506261032229963.jpg"
+  }, {
+    "groupId" : 1,
+    "id" : 6,
+    "width" : 900,
+    "height" : 600,
+    "url" : "http://post.phinf.naver.net/MjAxNzA0MjRfMjQ4/MDAxNDkyOTYwNjI1NTYz.nEIPyHqWVe4M3fpdipvFlptBmcxMXU05zAiNcNPudl0g.BpYKrjab3vvPPdiJ3JiN9BpUv07XGs3-0FqS9jViou4g.JPEG/IYISrUyj6V3TW_LlKx3L3sEjpsts.jpg"
+  }, {
+    "groupId" : 1,
+    "id" : 7,
+    "width" : 520,
+    "height" : 348,
+    "url" : "http://imgnews.naver.net/image/366/2015/02/14/2015021202135_1_99_20150214091504.jpg"
+  }, {
+    "groupId" : 1,
+    "id" : 8,
+    "width" : 740,
+    "height" : 416,
+    "url" : "http://ldb.phinf.naver.net/20190201_280/1549020535368hEWVz_GIF/BbY0Bi412CsimQFPZjmdTYNd.gif"
   } ]
 }, {
   "id" : 2,
